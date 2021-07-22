@@ -5,7 +5,7 @@ A D3 scatter plot connected to a Google Sheet that shows mileage vs elevation ga
 ![Example Image](https://i.imgur.com/zIaEz3Q.gif)
 
 # More Info
-This was orginally created as a pen on CodePen.io. Original URL: [https://codepen.io/arensmandy/pen/VwpmggN](https://codepen.io/arensmandy/pen/VwpmggN). This is my first time going from CodePen to GitHub; there are still a few things I need to update to make it look right on GitHub.
+This was originally created as a pen on CodePen.io. Original URL: [https://codepen.io/arensmandy/pen/VwpmggN](https://codepen.io/arensmandy/pen/VwpmggN). This is my first time going from CodePen to GitHub; there are still a few things I need to update to make it look right on GitHub.
 
 The project was created as a way to practice D3 data visualization while going through the [freeCodeCamp certification](https://www.freecodecamp.org/learn/data-visualization/), and as a fun way to keep track of my hiking. I also wanted to learn how to connect Google Sheets to Javascript and practice my CSS skills to make a more finished looking graph.
 
