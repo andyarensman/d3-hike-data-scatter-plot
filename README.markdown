@@ -1,5 +1,7 @@
 # D3: Hiking Data Scatter Plot
 
+[Checkout the full node version on Github here](https://github.com/andyarensman/Hiker-Tracker)
+
 A D3 scatter plot connected to a Google Sheet that shows mileage vs elevation gain, top locations visited, and other statistics from my hiking trips in 2021. When the Google Sheet is updated, the graph automatically updates with the new point(s). If the new points do not fit on the graph, the scales adjust on their own. You can see what it looks like below as well as one of the mouseover functions.
 
 ![Example Image](https://i.imgur.com/zIaEz3Q.gif)
@@ -11,7 +13,7 @@ The project was created as a way to practice D3 data visualization while going t
 
 In the future I may add pop-up images from the hikes when the user hovers over each point. I may also make this into a template that others can easily use by simply cloning my Google Sheet, putting in their hiking data, and updating the link in the code that connects to the Google Sheet. This isn't hard to do now, but it could be more user friendly. Finally, I might also try to automate the process of taking the hiking data from the app I use (Map My Run) and putting it into the Google Sheet. This would likely be a separate repository.
 
-The next step is going to be turning this into a full stack app with MongoDB (In progress as of 8/24/21). User's will be able to input their own hike data and see their own graphs. This will be used as a way to demonstrate abilities, not for much practical use. I may try to make it a React app and maybe make it MERN. In it's current state, the app only works on CodePen.
+The next step is going to be turning this into a full stack app with MongoDB ([completed here](https://github.com/andyarensman/Hiker-Tracker)). User's will be able to input their own hike data and see their own graphs. This will be used as a way to demonstrate abilities, not for much practical use. I may try to make it a React app and maybe make it MERN. In it's current state, the app only works on CodePen.
 
 # Tutorials & Guides Used:
 - How to Use Google Sheets with D3.js and Google Visualization by Amit Agarwal: [https://www.labnol.org/code/google-sheet-d3js-visualization-200608](https://www.labnol.org/code/google-sheet-d3js-visualization-200608)
